@@ -1,0 +1,8 @@
+You need and i mean NEED these so uh, just run this command in vs code or terminal
+---------------------------------------
+
+npm install discord.js random-js --save
+
+---------------------------------------
+
+and your done thank you for your time
